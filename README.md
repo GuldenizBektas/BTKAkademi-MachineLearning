@@ -5,4 +5,4 @@ Bu repo BTK Akademi ve Şadi Evren Şeker tarafından verilen Python ile Makine 
 
 
 #### -English-
-This repo contains jupyter notebook notes that I have personally created for the Machine Learnin with Python course given by BTK Academy and Şadi Evren Şeker.
+This repo contains jupyter notebook notes that I have personally created for the Machine Learning with Python course given by BTK Academy and Şadi Evren Şeker.
